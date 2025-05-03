@@ -106,3 +106,29 @@ And even if I do have that kind of conversation that results in licensing the co
 ## Yeah, OK, but why the AGPL rather than the GPL?
 
 In theory at least somebody could use and modify code from Xtinguish on the back end of their application without distributing that code. The AGPL covers that use case, but the GPL doesn't. The AGPL also covers all the use cases that the GPL covers.
+
+## I have a feature request - what should I do?
+
+Please [add your feature request here](https://github.com/bartread/xtinguish/issues/new) including as much detail as possible.
+
+You're welcome to submit a PR as well, although I'd suggest getting in touch by adding a feature request first so we can discuss and at least agree on the best approach.
+
+## It didn't work, or I found a bug - what should I do?
+
+I'm really sorry you're having problems. If you [tell me about the problem here](https://github.com/bartread/xtinguish/issues/new), again including as much detail as possible (see below), I'd be happy to try and help you if I can.
+
+By detail I mean:
+
+- What browser and operating system were you using (including version numbers)?
+
+- What twitter handle were you trying to delete tweets for?
+
+- What went wrong? What steps did you take that led up to the problem or error?
+
+- Anything that appears in the browser console - for example, error messages or stack traces, that might provide more information
+
+- Anything else you can think of that might be relevant
+
+As I say, I'll be happy to try and help you.
+
+You are also welcome to submit a PR that fixes the issue.
